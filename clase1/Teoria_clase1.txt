@@ -1,0 +1,19 @@
+https://airhorner.com/
+-----------------------------
+1- tiene un install
+2- es interactiva
+3-se puede usar offline, pero necesita un install en la web
+4-tiene una funcionm especifica
+5-funciona en desktop y mobile
+6- es gratis
+7- es responsive
+8-si la descargo o no, brinda la misma funcionalidad.
+9-es segura:https
+
+Desarrollar una awp es incorporar estas caracterizticas a un sitio ya hecho
+
+api rest => si =>http
+offline - first
+localstorage
+
+https://github.com/rafaedante/rafaedante.github.io
