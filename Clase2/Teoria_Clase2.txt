@@ -1,0 +1,22 @@
+Carga de los items:
+  - Hacer una barra para cargar un nuevo item?
+
+Busqueda:
+  - Buscar items actualmente listados mediante el campo de busqueda
+    - Cambiar los items mostrados
+
+Layout:
+    - Modificar el layout para que sea adaptable
+
+Barra de menu:
+    - Deshacer: llevar los datos a un estado anterior
+    - AGREGAR nuevo item -> campo de texto
+
+Barra lateral:
+    - Agregar limpiar lista
+    - Agregar guardar lista
+    - Agregar cargar lista
+
+Busqueda:
+  - Buscar items actualmente listados
+    
